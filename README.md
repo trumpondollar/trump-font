@@ -3,6 +3,8 @@
 ## 🎨 About the Font
 **Donald J. Trump** is a custom, hand-crafted typeface featuring **over 50 illustrated characters** of Donald J. Trump in various poses. Each character has been uniquely designed, making it ideal for creative and decorative applications.
 
+![Donald Font Preview](preview.jpg "Preview of Donald J. Trump Font")
+
 This font can be used for:
 
 - **Printing on objects** such as mugs, mouse pads, T-shirts, stickers, and promotional products  
